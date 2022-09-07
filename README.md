@@ -9,7 +9,7 @@
 
 <h3 align=“left”>Connect with me:</h3>
 <p align=“left”>
-<a href="https://www.linkedin.com/in/luketaylor9000" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luketaylor" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luketaylor9000" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luketaylor9000" height="30" width="40" /></a>
 </p>
 
 <hr>
@@ -35,8 +35,8 @@
 
 <hr>
 
-<p><img align=“left” src="https://github-readme-stats.vercel.app/api/top-langs?username=devinrojas&show_icons=true&theme=dark&locale=en&layout=compact" alt="devinrojas" /></p>
+<p><img align=“left” src="https://github-readme-stats.vercel.app/api/top-langs?username=luketaylor9000&show_icons=true&theme=dark&locale=en&layout=compact" alt="luketaylor9000" /></p>
 
 <hr>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devinrojas&show_icons=true&theme=dark&locale=en" alt="devinrojas" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luketaylor9000&show_icons=true&theme=dark&locale=en" alt="luketaylor9000" /></p>

@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="left">Hello! I'm Luke Taylor</h1>
+<h3 align="left">I am a driven Full-Stack developer from the Greater Boston Area</h3>
 
-<!--
-**luketaylor9000/luketaylor9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr> 
 
-Here are some ideas to get you started:
+- I’m currently working on **Brewtome. A project that helps people find and rate breweries. The App helps users search for breweries by querying the Open Brewery Database API then allows them to submit information about their experience at the venue!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h3 align=“left”>Connect with me:</h3>
+<p align=“left”>
+<a href="https://www.linkedin.com/in/luketaylor9000" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luketaylor" height="30" width="40" /></a>
+</p>
+
+<hr>
+
+<h3 align=“left”>Languages:</h3>
+<p align=“left”>   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </p>
+
+<hr>
+
+
+<h3 align=“left”>Frontend:</h3>
+<p align=“left”> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<hr>
+
+<h3 align=“left”>Backend and Databases:</h3>
+<p align=“left”><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </p>
+
+<hr>
+
+<h3 align=“left”>Other Software Tools:</h3>
+<p align=“left”><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></p>
+
+<hr>
+
+<p><img align=“left” src="https://github-readme-stats.vercel.app/api/top-langs?username=devinrojas&show_icons=true&theme=dark&locale=en&layout=compact" alt="devinrojas" /></p>
+
+<hr>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devinrojas&show_icons=true&theme=dark&locale=en" alt="devinrojas" /></p>

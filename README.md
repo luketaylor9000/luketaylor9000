@@ -3,7 +3,7 @@
 
 <hr> 
 
-- I’m currently working on **Brewtome. A project that helps people find and rate breweries. The App helps users search for breweries by querying the Open Brewery Database API then allows them to submit information about their experience at the venue!**
+- I’m currently working on **Brewtome**. A project that helps people find and rate breweries. The App helps users search for breweries by querying the Open Brewery Database API then allows them to submit information about their experience at the venue!
 
 <hr>
 

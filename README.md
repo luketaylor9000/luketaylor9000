@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Luke Taylor 👋</h1>
+<h1 align="center">Hi, I'm Luke Taylor</h1>
 
 <p align="center">
   <b>Full-stack engineer building autonomous, self-driving software pipelines.</b><br/>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🤖 What I'm building
+### What I'm building
 
 These days I build **agentic software-delivery pipelines** — systems where AI agents
 carry a feature from a rough idea all the way to a reviewed, tested, shipped change,

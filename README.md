@@ -46,6 +46,15 @@ the framework itself — it runs its own pipeline on itself.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### 🪛 Outside the terminal
+
+Same systems thinking, different tools:
+
+- **ComfyUI image pipelines** — batch photo edits and style-tuned renders.
+- **CAD + 3D printing** — modeling parts in Fusion 360, then printing them.
+- **Home automation** — Home Assistant on a Raspberry Pi, sensors, and a soldering iron.
+- **PC builds** — designed and assembled by hand.
+
 ### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luketaylor9000)

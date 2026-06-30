@@ -46,13 +46,6 @@ the framework itself — it runs its own pipeline on itself.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luketaylor9000&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Luke's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luketaylor9000&layout=compact&theme=dark&langs_count=8" alt="Top languages" />
-</p>
-
 ### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luketaylor9000)

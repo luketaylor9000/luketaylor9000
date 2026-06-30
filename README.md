@@ -1,42 +1,58 @@
-<h1 align="left">Hello! I'm Luke Taylor</h1>
-<h3 align="left">I am a driven Full-Stack developer from the Greater Boston Area</h3>
+<h1 align="center">Hi, I'm Luke Taylor 👋</h1>
 
-<hr> 
-
-- I’m currently working on **Brewtome**. A project that helps people find and rate breweries. The App helps users search for breweries by querying the Open Brewery Database API then allows them to submit information about their experience at the venue!
-
-<hr>
-
-<h3 align=“center”>Connect with me:</h3>
-<p align=“center”>
-<a href="https://linkedin.com/in/luketaylor9000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luketaylor" height="30" width="40" /></a>
+<p align="center">
+  <b>Full-stack engineer building autonomous, self-driving software pipelines.</b><br/>
+  <sub>Greater Boston Area</sub>
 </p>
 
-<hr>
+---
 
-<h3 align=“left”>Languages:</h3>
-<p align=“left”>   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### 🤖 What I'm building
 
-<hr>
+These days I build **agentic software-delivery pipelines** — systems where AI agents
+carry a feature from a rough idea all the way to a reviewed, tested, shipped change,
+with a human in the loop only where it matters.
 
+The platform I work on every day turns **a fuzzy idea (or an existing repo) into a
+self-driving project**:
 
-<h3 align=“left”>Frontend:</h3>
-<p align=“left”> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- **Multi-agent dev pipeline** — planning → implementation → automated QA →
+  **visual QA** (screenshot / screen-recording analysis) → code review →
+  self-healing fix loops, all orchestrated on GitHub Actions.
+- **An autonomous PM agent** — intakes, creates, schedules, and audits work
+  against a live project board.
+- **Ephemeral preview environments** — every change gets a shareable, running preview.
+- **Self-hosted runner infrastructure** — a published container toolchain image
+  and self-hosted runners powering the whole pipeline.
+- **An operator UI** — review agent-generated PRs as structured, actionable cards.
 
-<hr>
+It's topology-general: the same pipeline drives a disc-golf PWA, an idle game, and
+the framework itself — it runs its own pipeline on itself.
 
-<h3 align=“left”>Backend and Databases:</h3>
-<p align=“left”><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ Tech I work with
 
-<hr>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<h3 align=“left”>Other Software Tools:</h3>
-<p align=“left”><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/> </a></p>
+### 📊 GitHub
 
-<hr>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=luketaylor9000&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Luke's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luketaylor9000&layout=compact&theme=dark&langs_count=8" alt="Top languages" />
+</p>
 
-<p><img align=“left” src="https://github-readme-stats.vercel.app/api/top-langs?username=luketaylor9000&show_icons=true&theme=dark&locale=en&layout=compact" alt="luketaylor9000" /></p>
+### 🔗 Connect
 
-<hr>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luketaylor9000&show_icons=true&theme=dark&locale=en" alt="luketaylor9000" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luketaylor9000)

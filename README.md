@@ -7,7 +7,7 @@
 
 ---
 
-### What I'm building
+### 🏗️ What I'm building
 
 These days I build **agentic software-delivery pipelines** — systems where AI agents
 carry a feature from a rough idea all the way to a reviewed, tested, shipped change,
